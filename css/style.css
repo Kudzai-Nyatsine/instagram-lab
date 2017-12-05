@@ -43,6 +43,10 @@ body {
 	font-size: 17px;
 	color: #999;
 }
+
+.info-3 a {
+	text-decoration: none;
+}
 .sub-section {
 	text-align: center;
 }
@@ -53,6 +57,10 @@ body {
 .sub-section3 {
 	border: 1px solid grey;
 	padding-top: 10px;
+
+}
+.sub-section4 {
+	text-align: center;
 }
 .button {
 	text-align: center;
