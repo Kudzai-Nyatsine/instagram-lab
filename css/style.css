@@ -32,11 +32,13 @@ body {
 	font-size: 17px;
 	color: #999;
 }
+
 .info-2 {
 	text-align: center;
 	font-size: 17px;
 	color: #999;
 }
+
 .info-3 {
 	text-align: center;
 	font-size: 17px;
@@ -79,9 +81,11 @@ form input {
 	padding:5px;
 	background-color: #fafafa
 }
+
 footer {
 	display: inline;
 }
+
 footer a {
 	padding-right:10px;
 	text-transform: uppercase;

@@ -1,0 +1,11 @@
+html,body{
+	padding:0px;
+	margin:0px;
+}
+
+#wrapper {
+	width: 936px;
+	background-color: #AEAEAE;
+	height:400px;
+	margin: 0 auto;
+}
