@@ -4,7 +4,7 @@ body {
 }
 
 .section-1 {
-	width: 100%;
+	width: 400px;
 	float: left;
 	
 }
@@ -15,7 +15,6 @@ body {
 }
 
 .section-2 {
-	width: 50%;
 	float: right;
 	border: 1px solid black;
 	margin-right:50px;
@@ -79,6 +78,10 @@ form input {
 	width: 200px;
 	padding:5px;
 	background-color: #fafafa
+}
+
+footer {
+	padding-right:10px;
 }
 
 .clr {
