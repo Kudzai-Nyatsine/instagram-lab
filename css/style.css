@@ -79,10 +79,24 @@ form input {
 	padding:5px;
 	background-color: #fafafa
 }
-
 footer {
-	padding-right:10px;
+	display: inline;
 }
+footer a {
+	padding-right:10px;
+	text-transform: uppercase;
+	display: inline;
+	text-decoration: none;
+	color: #003569;
+	text-align:center;
+
+}
+
+.outro {
+	color: #999;
+	display: inline;
+}
+
 
 .clr {
 	clear: both;
